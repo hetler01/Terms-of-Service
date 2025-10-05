@@ -76,7 +76,7 @@ By using Sage, you confirm that you are at least 13 years of age (or the minimum
 ## 2. Availability
 
 * Sage is provided **“as is” and “as available.”**
-* We do not guarantee uninterrupted uptime, error-free performance, or permanent availability.
+* We do not guarantee uninterrupted uptime, error-free performance or permanent availability.
 * The bot may be updated taken offline or terminated **at any time with or without notice**.
 
 ---
