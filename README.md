@@ -61,7 +61,7 @@ We may revise these Terms of Service at any time. Continued use of Sage constitu
 
 For questions or concerns regarding these Terms, please contact the developer(s) via the official **# Terms of Service for Sage Discord Bot
 
-**Last Updated:** [Insert Date]
+**Last Updated:** 05-10-2025
 
 By adding or using Sage in your Discord server, you agree to the following Terms of Service.
 
@@ -77,7 +77,7 @@ By using Sage, you confirm that you are at least 13 years of age (or the minimum
 
 * Sage is provided **“as is” and “as available.”**
 * We do not guarantee uninterrupted uptime, error-free performance, or permanent availability.
-* The bot may be updated, taken offline or terminated **at any time with or without notice**.
+* The bot may be updated taken offline or terminated **at any time with or without notice**.
 
 ---
 
@@ -85,7 +85,7 @@ By using Sage, you confirm that you are at least 13 years of age (or the minimum
 
 You agree **not to misuse** Sage, including but not limited to:
 
-* Attempting to exploit, reverse-engineer, or damage the bot.
+* Attempting to exploit, reverse-engineer or damage the bot.
 * Using the bot to harass, spam or violate Discord’s Community Guidelines or Terms of Service.
 * Using the bot in servers or activities involving illegal or harmful content.
 
