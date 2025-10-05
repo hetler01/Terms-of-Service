@@ -59,7 +59,8 @@ We may revise these Terms of Service at any time. Continued use of Sage constitu
 
 ## 8. Contact
 
-For questions or concerns regarding these Terms, please contact the developer(s) via the official **# Terms of Service for Sage Discord Bot
+For questions or concerns regarding these Terms, please contact the developer(s) via the official. 
+
 
 **Last Updated:** 05-10-2025
 
